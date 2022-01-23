@@ -18,5 +18,9 @@ public class FinanceEntity {
 	private String financeName;
 	
 	private double price;
+	
+	// Adding a new field
+	
+	private boolean isFinanceReal;
 
 }
